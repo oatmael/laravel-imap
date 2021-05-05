@@ -59,5 +59,7 @@
                 "Client": "Webklex\\IMAP\\Facades\\Client"
             }
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
