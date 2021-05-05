@@ -21,6 +21,16 @@
             "role": "Developer"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/oatmael/php-imap"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/oatmael/laravel-imap"
+        }
+    ],
     "require": {
         "php": ">=5.5.9",
         "ext-mbstring": "*",
